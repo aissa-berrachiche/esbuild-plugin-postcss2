@@ -1,7 +1,7 @@
 {
-  "name": "@frappe/esbuild-plugin-postcss2",
-  "version": "0.1.3",
-  "description": "Use postcss with esbuild",
+  "name": "@aissab/esbuild-plugin-postcss2",
+  "version": "0.1.4",
+  "description": "Use postcss with esbuild - upgrade",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frappe/esbuild-plugin-postcss2.git"
@@ -33,10 +33,10 @@
     "autoprefixer": "^10.2.5",
     "fs-extra": "^9.1.0",
     "less": "^4.x",
-    "postcss-modules": "^4.0.0",
+    "postcss-modules": "^4.3.1",
     "resolve-file": "^0.3.0",
     "sass": "^1.x",
-    "stylus": "^0.x",
+    "stylus": "^0.59.0",
     "tmp": "^0.2.1"
   },
   "devDependencies": {
